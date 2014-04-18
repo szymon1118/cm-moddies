@@ -1,20 +1,20 @@
 cm-moddies
 ==========
-mkdir ~/Hello-World
+******mkdir ~/Hello-World********
 
 Creates a directory for your project called "Hello-World" in your user directory
 
-cd ~/Hello-World
+**cd ~/Hello-World**********
 
 Changes the current working directory to your newly created directory
 
-git init
+**git init**
 
 Sets up the necessary Git files
 
-Initialized empty Git repository in /Users/you/Hello-World/.git/
+*Initialized empty Git repository in /Users/you/Hello-World/.git/*
 
-touch README
+**touch READM****
 
 Creates a file called "README" in your Hello-World directory
 Modifications for i9100 Cyanogenmod
