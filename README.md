@@ -17,4 +17,5 @@ Sets up the necessary Git files
 **touch README**
 
 Creates a file called "README" in your Hello-World directory
+
 Modifications for i9100 Cyanogenmod
