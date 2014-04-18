@@ -1,4 +1,4 @@
-cm-moddies
+2. cm-moddies
 ==========
 **mkdir ~/Hello-World**
 
