@@ -19,4 +19,4 @@ Sets up the necessary Git files
 Creates a file called "README" in your Hello-World directory
 
 
-## Modifications for i9100 Cyanogenmod
+### Modifications for i9100 Cyanogenmod
