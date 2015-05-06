@@ -10,7 +10,7 @@ First Header  | Second Header
 Content Cell  | Content Cell
 Content Cell  | Content Cell
 
-![GitHub Logo](http://szytop.t15.org/icon1.png)
+![Image](http://ocdn.eu/images/pulscms/NDM7MDA_/b5c5fb9cdc2e52baabb3b537ab25ad67.png)
 
 ```
 x = 0
@@ -19,6 +19,4 @@ what is x
 ```
 
 :computer:
-
-![Image](http://www.zseil.edu.pl/rnowa/html/images/pusty.gif)
 
