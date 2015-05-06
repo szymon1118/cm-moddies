@@ -18,5 +18,5 @@ x = 2 + 2
 what is x
 ```
 
-/play secret
+:computer:
 
