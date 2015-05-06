@@ -20,5 +20,5 @@ what is x
 
 :computer:
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image](http://www.zseil.edu.pl/rnowa/html/images/pusty.gif)
 
