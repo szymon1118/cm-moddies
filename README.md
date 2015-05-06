@@ -1,7 +1,16 @@
-cm-moddies
+test
 ==========
 
-#### Modifications for Cyanogenmod and custom recovery
+#### repository for tests
+
+[Visit GitHub!](www.github.com)
+
+First Header  | Second Header
+------------- | -------------
+Content Cell  | Content Cell
+Content Cell  | Content Cell
+
+![GitHub Logo](http://szytop.t15.org/icon1.png)
 
 ```
 x = 0
